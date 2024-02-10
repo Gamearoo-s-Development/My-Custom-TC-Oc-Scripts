@@ -1,0 +1,9 @@
+us17: #68FA1F
+i17: #1FFAC8
+i77: #711FB6
+ramps: all default
+us18: #E85555
+us19: #17CB1C 
+roads: #F27CA5
+construction: #B75900
+closed road: #F9E605 
